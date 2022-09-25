@@ -20,7 +20,17 @@ A series of code examples for all sorts of machine learning tasks and applicatio
 </a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l">Introduction to Neural Networks</td>
+    <td class="tg-yw4l">A basic tutorial to learn about Neural Networks</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Machine-Learning-with-Me/blob/main/Hello_World_in_PyTorch.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
  
 
  
   </table> 
+
