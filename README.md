@@ -1,5 +1,6 @@
-# Learn-Machine-Learning-with-Me
-A series of code examples for all sorts of machine learning tasks and applications
+# Learn Machine Learning with Me!!
+
+A series of code examples for all sorts of machine learning tasks and applications with PyTorch
 
 
 <table class="tg">
