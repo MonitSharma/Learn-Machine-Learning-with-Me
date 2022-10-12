@@ -40,6 +40,15 @@ Be sure to check [the work](https://github.com/dair-ai/ML-Notebooks) out, if you
 </a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">4.</td>
+    <td class="tg-yw4l">Counterfactual explanations</td>
+    <td class="tg-yw4l">. This notebook teaches what CEs are, why they are important, and provides how they can be discovered.</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Machine-Learning-with-Me/blob/main/Counter_Factual_Explained.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
  
 
  
