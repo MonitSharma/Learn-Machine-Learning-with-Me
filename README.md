@@ -1,6 +1,8 @@
 # Learn Machine Learning with Me!!
 
-A series of code examples for all sorts of machine learning tasks and applications with PyTorch
+A series of code examples for all sorts of machine learning tasks and applications with PyTorch. This work is more extensively done [here](https://github.com/dair-ai/ML-Notebooks), but as I go through each notebook, I'll try to upload them in my words and some changes. 
+
+Be sure to check [the work](https://github.com/dair-ai/ML-Notebooks) out, if you want to dive deep into ML.
 
 
 <table class="tg">
