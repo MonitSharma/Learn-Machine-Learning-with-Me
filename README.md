@@ -5,6 +5,53 @@ A series of code examples for all sorts of machine learning tasks and applicatio
 Be sure to check [the work](https://github.com/dair-ai/ML-Notebooks) out, if you want to dive deep into ML.
 
 
+-------------
+--------------
+
+## Maths for Machine Learning
+
+Math literacy, including proficiency in Linear Algebra and Statistics,is a must for anyone pursuing a career in data science. The goal of this course is to introduce some key concepts from these domains that get used repeatedly in data science applications. 
+
+The focus will be on depth rather than breadth. Three areas chosen are - `Hypothesis Testing`, `Supervised Learning` and `Unsupervised Learning`. They will be covered to sufficient depth.
+
+Be sure to check my other work on [Numerical Linear Algebra](https://github.com/MonitSharma/Numerical-Linear-Algebra) to get in-depth knowledge of maths behind computations.
+
+
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Sr. No</b></th>
+    <th class="tg-yw4l"><b>Title</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">1.</td>
+    <td class="tg-yw4l">Learning from Data</td>
+    <td class="tg-yw4l">The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features.</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Machine-Learning-with-Me/blob/main/Introduction_to_Computational_Graph.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+
+
+
+
+
+
+
+
+
+</table> 
+
+
+
+------------------
+-----------
+
+## Learning ML via Code
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Sr. No</b></th>
