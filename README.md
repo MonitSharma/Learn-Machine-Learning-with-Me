@@ -1,11 +1,10 @@
 # Learn Machine Learning with Me!!
 
-A series of code examples for all sorts of machine learning tasks and applications with PyTorch. This work is more extensively done [here](https://github.com/dair-ai/ML-Notebooks), but as I go through each notebook, I'll try to upload them in my words and some changes. 
-
-Be sure to check [the work](https://github.com/dair-ai/ML-Notebooks) out, if you want to dive deep into ML.
+A series of code examples for all sorts of machine learning tasks and applications with PyTorch. 
 
 
--------------
+
+
 --------------
 
 ## Maths for Machine Learning
@@ -30,7 +29,7 @@ Be sure to check my other work on [Numerical Linear Algebra](https://github.com/
     <td class="tg-yw4l">1.</td>
     <td class="tg-yw4l">Learning from Data</td>
     <td class="tg-yw4l">The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features.</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Machine-Learning-with-Me/blob/main/Introduction_to_Computational_Graph.ipynb">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Machine-Learning-with-Me/blob/main/Learning_From_Data.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
@@ -47,7 +46,6 @@ Be sure to check my other work on [Numerical Linear Algebra](https://github.com/
 
 
 
-------------------
 -----------
 
 ## Learning ML via Code
