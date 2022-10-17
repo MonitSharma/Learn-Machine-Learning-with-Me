@@ -33,6 +33,15 @@ Be sure to check my other work on [Numerical Linear Algebra](https://github.com/
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l">Introduction to Linear Algebra</td>
+    <td class="tg-yw4l">Learn about basic matrix multiplication techniques. Check [this other course](https://github.com/MonitSharma/Numerical-Linear-Algebra) for a deeper understanding</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Machine-Learning-with-Me/blob/main/Intro_to_Linear_Algebra.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
 
 
 
